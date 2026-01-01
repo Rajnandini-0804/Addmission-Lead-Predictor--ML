@@ -24,17 +24,22 @@ Model Training and Prediction
 
 🤖 Machine Learning Details
 Type: Supervised Learning
+
 Objective: Lead Interest Prediction
+
 Output: High Interested / Low Interested leads
 
 📂 Files in this Repository
 Admission Leads Interest Analysis (1).ipynb
+
 → Data cleaning and preparation notebook
 
 `Addmission Lead Predictor.ipynb
+
 → Machine learning model and prediction logic
 
 ✅ Conclusion
 This project demonstrates how machine learning can be applied to real admission processes to prioritize high-interest leads and improve decision-making.
+
 
 ⭐ If you like this project, feel free to give it a star!
